@@ -14,3 +14,14 @@ This repository demonstrates **watershed delineation** and **morphological featu
   - uses c_profile to compute the computation time of each component of the code.
 
 > Core workflow is implemented in `c_profile_watershed_delineation_code`
+
+# References & Further Reading
+
+Hydrological analysis (WhiteboxTools)
+https://www.whiteboxgeo.com/manual/wbt_book/available_tools/hydrological_analysis.html
+
+Stream network analysis (WhiteboxTools)
+https://www.whiteboxgeo.com/manual/wbt_book/available_tools/stream_network_analysis.html
+
+Geomorphometric analysis (WhiteboxTools)
+https://www.whiteboxgeo.com/manual/wbt_book/available_tools/geomorphometric_analysis.html
