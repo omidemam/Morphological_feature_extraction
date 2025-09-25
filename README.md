@@ -13,7 +13,7 @@ This repository demonstrates **watershed delineation** and **morphological featu
   - Longest flow path slope
   - uses c_profile to compute the computation time of each component of the code.
 
-> Core workflow is implemented in `c_profile_watershed_delineation_code`
+> Core workflow is implemented in `C_profile_watershed_delineation_code.ipynb`
 
 # References & Further Reading
 
